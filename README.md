@@ -62,7 +62,7 @@ Este projeto proporcionou uma visão prática sobre os desafios do reconheciment
 
 Clone o repositório:
   ```bash
-    git clone https://github.com/seuusuario/nome-do-repositorio.git
+    git clone https://github.com/ChristopherKevin7/AC2_Reconhecimento-de-Padroes.git
   ```
 
 Execute o notebook AC2_PADRÕES.ipynb para reproduzir os resultados.
